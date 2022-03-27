@@ -39,6 +39,8 @@ Program planning involves multiple steps including the identification of a probl
 The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time. The goal of the SDLC is to produce superior software that meets and exceeds all customer expectations and demands. The SDLC defines and outlines a detailed plan with stages, or phases, that each encompass their own process and deliverables.
 seven phases of SDLC include planning, analysis, design, development, testing, implementation, and maintenance.
 
+<img src='/assets/sdlc_stages.jpg'/>
+
 Stage 1: Planning and Requirement Analysis
 Requirement analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
 
@@ -88,7 +90,16 @@ Following are the Agile Manifesto principles −
 
 - Responding to change − Agile Development is focused on quick responses to change and continuous developmen
 
-### Requirements Engineering--here---
+** Agile Vs Traditional SDLC Models
+Agile is based on the adaptive software development methods, whereas the traditional SDLC models like the waterfall model is based on a predictive approach. Predictive teams in the traditional SDLC models usually work with detailed planning and have a complete forecast of the exact tasks and features to be delivered in the next few months or during the product life cycle.
+
+Predictive methods entirely depend on the requirement analysis and planning done in the beginning of cycle. Any changes to be incorporated go through a strict change control management and prioritization.
+
+Agile uses an adaptive approach where there is no detailed planning and there is clarity on future tasks only in respect of what features need to be developed. There is feature driven development and the team adapts to the changing product requirements dynamically. The product is tested very frequently, through the release iterations, minimizing the risk of any major failures in future.
+
+Customer Interaction is the backbone of this Agile methodology, and open communication with minimum documentation are the typical features of Agile development environment. The agile teams work in close collaboration with each other and are most often located in the same geographical location.
+
+### Requirements Engineering
  Software requirements engineering refers to the first phase, before any of the actual designing, coding, testing, or maintenance takes place. The goal is to create an important early document and process in the software design. Often referred to as software requirements specification, or SRS, it determines what software is produced. It is basically the gathering of information of a customer's or potential customer/target audience's requirements for a system, before any actual design takes place.
 
 ### Software Architecture
@@ -118,7 +129,7 @@ This section asks you to consider establishing consistent programming standards 
 Commenting involves placing Human Readable Descriptions inside of computer programs detailing what the Code is doing. Proper use of commenting can make code maintenance much easier, as well as helping make finding bugs faster. Further, commenting is very important when writing functions that other people will use.
 Documentation is intended to help a user of your software understand how to achieve their goals
 
-### Folder and File Organisation
+### Folder and File Organisation -- here
 
 
 
